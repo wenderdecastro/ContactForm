@@ -1,0 +1,53 @@
+{
+  "contatos": [
+    {
+      "nome": "Wender",
+      "sobrenome": "Javascripto da Silva",
+      "email": "wendermaiac@gmail.com",
+      "telefone": {
+        "pais": "+55",
+        "ddd": "11",
+        "numeroTelefone": "968138724"
+      },
+      "endereco": {
+        "cep": "08580250",
+        "rua": "Rua Anápolis",
+        "numero": "666",
+        "complemento": "casinha la",
+        "bairro": "Jardim Maragogipe",
+        "cidade": "Itaquaquecetuba",
+        "UF": "SP"
+      },
+      "anotacoes": "SE DEUS É BOM E O DIABO NÃO PRESTA AGORA VAI",
+      "id": 1
+    },
+    {
+      "nome": "Wender",
+      "sobrenome": "Javascripto da Silva",
+      "email": "clunealir@outlook.com",
+      "telefone": {
+        "pais": "+55",
+        "ddd": "11",
+        "numeroTelefone": "968138724"
+      },
+      "endereco": {
+        "cep": "08580230",
+        "rua": "Rua Pixinguinha",
+        "numero": "666",
+        "complemento": "teste",
+        "bairro": "Jardim Maragogipe",
+        "cidade": "Itaquaquecetuba",
+        "UF": "SP"
+      },
+      "anotacoes": "TESTE DE NUMERO 2",
+      "id": 2
+    }
+  ],
+  "eventos": [
+    {
+      "id": 1,
+      "nome": "Super Evento de Programação",
+      "tipo": "Javascript"
+    }
+  ]
+}
